@@ -5,10 +5,8 @@ This Repo consists of multiple projects for airtribe assignments
 
 This API is used to fetch news, perform CRUD on newsDb and have some authentication with users This project also fetches news by category from NewsAPI every 14 mins
 
-Please create the .env file with following keys
-PORT = 8080
-NEWS_API_KEY = xxxxxxxxxxxxxxxxxxxxxxxxxx
-API_SECRET = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+Please refer sample.env for env keys
+
 
 The project has 2 DBs
 
